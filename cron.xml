@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>   
+<cron>   
+<job command="RunAddon(script.user.notification)" expression="30 7,19 * * *" name="meds" show_notification="True"/>   
+</cron>
