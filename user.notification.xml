@@ -6,7 +6,7 @@
 	<extension point="xbmc.python.script" library="user.notification.py">
 		<provides>executable</provides>
 	</extension>
-	<extension point="xbmc.user.notification.metadata">
+	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
 		<summary lang="en">Popup user notification</summary>
 		<description lang="en">Very simple script to display a popup notification to user</description>
