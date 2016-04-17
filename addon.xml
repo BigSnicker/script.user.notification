@@ -13,7 +13,7 @@
 		<license>GNU General Public License, v3</license>
 		<language></language>
 		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
-		<source>https://github.com/johnwillson/user.notification</source>
+		<source>https://github.com/johnwillson/script.user.notification</source>
 		<email>kodi@johnwillson.com</email>
 	</extension>
 </addon>
