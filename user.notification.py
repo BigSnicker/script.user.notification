@@ -1,8 +1,8 @@
 import xbmcaddon
 import xbmcgui
  
-addon       = xbmcaddon.Addon()
-addonname   = addon.getAddonInfo('name')
+# addon       = xbmcaddon.user.notification()
+# addonname   = user.notification.getAddonInfo('name')
  
 line1 = "It's time for your medication."
 line2 = " "
