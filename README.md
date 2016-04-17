@@ -13,7 +13,7 @@ Here a screenshot of what the reminder looks like using the Metropolis skin.
 
 ![Screenshot](user.notification.screenshot.png)
 
-##Install Open Notification addon
+##Install User Notification addon
 Installing the script.user.notification-master.zip file will give you the User Notification program addon, which you can test run to simply display the notification GUI shown in the screenshot above.
 
 The text is hardcoded, but can be modified to serve whatever reminder needs you have at ~/.kodi/addons/script.user.notification-master/user.notification.py
